@@ -1,5 +1,5 @@
 # MySQL Workbench
-
+包含MySQLLexer.g4和MySqlParser.g4
 Copyright (c) 2007, 2021, Oracle and/or its affiliates.
 
 This is a release of [MySQL Workbench](https://mysqlworkbench.org), a graphical tool for working with MySQL servers and databases.
